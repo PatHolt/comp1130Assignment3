@@ -1,5 +1,5 @@
 # comp1130Assignment3
-COMP1130 - Data Structures - Assignment 3 
+COMP1130 - Database and Information Management - Assignment 3 
 
 Hello,
 
